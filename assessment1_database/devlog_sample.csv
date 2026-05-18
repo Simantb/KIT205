@@ -1,0 +1,6 @@
+Date,Milestone,What Was Added,Testing Completed,Next Step
+2026-05-18,Initial commit,"Created assignment folder, selected books-authors many-to-many domain, added project structure","Build check of empty project structure","Implement Prototype 1"
+2026-05-18,Prototype 1 data structures complete,"Implemented sorted linked lists for books/authors and AVL trees for relationship storage","Unit tests for insert, ordered books, ordered authors-for-book, ordered books-for-author","Implement Prototype 2"
+2026-05-18,Prototype 2 data structures complete,"Implemented hash tables for books/authors and sorted dynamic arrays for relationships","Unit tests for insert, ordered books, ordered authors-for-book, ordered books-for-author","Add evaluation code"
+2026-05-18,Database implementation complete,"Connected both prototypes to shared tests and example output","Ran complete unit test suite","Add benchmarking"
+2026-05-18,Evaluation code complete,"Added generated dataset benchmarking and CSV output","Compiled and ran full program including tests and evaluation","Prepare poster and final submission notes"
