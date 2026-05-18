@@ -1,0 +1,6 @@
+relationships,prototype1_insert_ms,prototype2_insert_ms,prototype1_lookup_ms,prototype2_lookup_ms
+1000,0.627,0.216,0.182,0.014
+3000,3.737,0.174,0.505,0.014
+6000,38.636,0.509,4.094,0.039
+12000,196.220,0.766,24.358,0.131
+24000,462.762,2.122,119.528,0.502
